@@ -1,2 +1,0 @@
-# masala-svelte
-heheheheehhe
